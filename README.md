@@ -1,3 +1,6 @@
 # Sentiment-Analysis
 
--------- Need to check ----------
+stopwords, twitter_samples
+pickle
+
+Logistic Regression
